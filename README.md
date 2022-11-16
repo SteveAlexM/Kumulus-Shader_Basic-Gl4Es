@@ -10,3 +10,8 @@ This shader is not perfect, so please give criticism and suggestions for this sh
 You can review this shader by providing my official github link.  Edit this shader and use it for yourself, 
 you can use the code I used but it needs my permission!  
 Don't pirate this shader without my permission!
+
+
+Kumulus Shader Basic Gl4Es part 1 and 2 is not here!  
+You can download it here⏬
+https://github.com/SteveAlexM/Open4Es-Shader-Android/releases
